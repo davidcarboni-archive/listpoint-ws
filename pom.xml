@@ -3,19 +3,12 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.github.davidcarboni</groupId>
 	<artifactId>listpoint-ws</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>6.0.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
-	<name>Listpoint WS</name>
+	<name>Listpoint Web Services</name>
 	<description>
-		Web service client for the listpoint6 service.
-		
-		This code is generated from Listpoint WSDLs using wsimport and the following WSDL files:
-		 - http://www.listpoint.co.uk/webservices/codelist6service.asmx?wsdl
-		 - http://www.listpoint.co.uk/webservices/context6service.asmx?wsdl
-		 - http://www.listpoint.co.uk/webservices/contextmap6service.asmx?wsdl
-		 
-		This project is based on the Maven Central Releaser project: https://github.com/davidcarboni/releaser
-  </description>
+		Web Service Client for version 6 of Listpoint.co.uk
+    </description>
 	<url>https://github.com/davidcarboni/listpoint-ws</url>
 
 	<!-- Required: license information: -->
