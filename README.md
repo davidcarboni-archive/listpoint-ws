@@ -23,7 +23,7 @@ Generation was performed using the following commands:
  * wsimport -B-XautoNameResolution -s src/main/java/ -d target -p uk.co.listpoint.context http://www.listpoint.co.uk/webservices/context6service.asmx?wsdl
  * wsimport -B-XautoNameResolution -s src/main/java/ -d target -p uk.co.listpoint.contextmap http://www.listpoint.co.uk/webservices/contextmap6service.asmx?wsdl
 
-If you would like to generate just one of these client jars directly, you can use the following commands. NB by default these all end up in the uk.co.listpoint package, so there will be conflicts if not using a custom package to separate generated code:
+If you would like to generate just one of these client jars directly, you can use the following commands. NB by default these all end up in the uk.co.listpoint package, so there will be conflicts if you don't use a custom package to separate generated code:
 
  * wsimport -s src/main/java/ -d target -clientjar listpoint-codelist-ws.jar http://www.listpoint.co.uk/webservices/codelist6service.asmx?wsdl
  * wsimport -s src/main/java/ -d target -clientjar listpoint-context-ws.jar http://www.listpoint.co.uk/webservices/context6service.asmx?wsdl
@@ -33,6 +33,7 @@ If you would like to generate just one of these client jars directly, you can us
 ### How do I use it?
 
 See [http://listpoint.co.uk/](http://listpoint.co.uk/) for more information.
+Please contact the Listpoint team to request web services access.
 
 		
 David Carboni
