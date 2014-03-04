@@ -32,8 +32,8 @@ If you would like to generate just one of these client jars directly, you can us
 
 ### How do I use it?
 
-See [http://listpoint.co.uk/](http://listpoint.co.uk/) for more information.
 Please contact the Listpoint team to request web services access.
+See [http://listpoint.co.uk/](http://listpoint.co.uk/) for more information.
 
 		
 David Carboni
