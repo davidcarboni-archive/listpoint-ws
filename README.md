@@ -29,6 +29,9 @@ Generation was performed using the following commands:
 
 See [http://listpoint.co.uk/](http://listpoint.co.uk/) for more information.
 
+		
 David Carboni
 
 [https://github.com/davidcarboni/](https://github.com/davidcarboni/)
+
+This project is based on the Maven Central Releaser project: [https://github.com/davidcarboni/releaser](https://github.com/davidcarboni/releaser)
